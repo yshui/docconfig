@@ -1,0 +1,5 @@
+[workspace]
+members = [
+"docconfig_derive",
+"docconfig"
+]

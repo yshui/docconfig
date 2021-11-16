@@ -1,0 +1,10 @@
+[package]
+name = "docconfig"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Yuxuan Shui <yshuiv7@gmail.com>" ]
+description = "Generate sample config file from structs"
+
+
+[dependencies]
+docconfig_derive = { path = "../docconfig_derive" }
